@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans:wght@300&family=Roboto:wght@300&family=Source+Code+Pro&display=swap');
+
+/*
+font-family: 'Bebas Neue', cursive;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Code Pro', monospace; 
+*/
+
+.topSection {
+    margin-top: 160px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Source Code Pro', monospace;
+}
+.topSection button {
+    font-size: 20px;
+	box-shadow:inset 0px 1px 0px 0px #007cf0;
+	background:linear-gradient(to bottom, #001881 5%, #0015ff 100%);
+	background-color:#1d0b7a;
+	border-radius:11px;
+	border:2px solid #0c0062;
+	display:inline-block;
+	cursor:pointer;
+    font-family: 'Noto Sans', sans-serif;
+	padding:8px 18px;
+	text-shadow:0px 1px 0px #6452cc;
+}
+.topSection a:link {
+	text-decoration:none;
+	color:#ffffff;
+}
+.topSection a:visited {
+	text-decoration:none;
+	color:#ffffff;
+}
+.topSection a:hover {
+	text-decoration:none;
+	color:#bababa;
+}
+
+.lowerSection h3 {
+    margin-top: 1000px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.lowerSection ul {
+    margin-top: 35px;
+    margin-right: 30px;
+    list-style: none;
+    text-align: center;
+}
+
+.lowerSection li {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+}
+
+.lowerSection a:link {
+    text-decoration: none;
+    color:aqua;
+}
+
+.lowerSection a:visited {
+    color:aqua;
+}
+
+.lowerSection a:hover {
+    color:blue;
+}

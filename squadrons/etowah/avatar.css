@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans:wght@300&family=Roboto:wght@300&family=Source+Code+Pro&display=swap');
+
+/*
+font-family: 'Bebas Neue', cursive;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Code Pro', monospace; 
+*/
+
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+.container h2 {
+    font-family: 'Source Code Pro', monospace;   
+}
+
+.boxes {
+	margin-top: 20px;
+}
+
+.boxes .box{
+	float: left;
+	text-align: center;
+	width: 30%;
+	padding: 10px;
+}
+
+.box h3 {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.box p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.boxes .box img{
+	width: 90px;
+}
+
+.avatarClass {
+	display: inline-block;
+	border-radius: 40%;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}

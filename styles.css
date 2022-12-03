@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans:wght@300&family=Roboto:wght@300&family=Source+Code+Pro&display=swap');
+
+/*
+font-family: 'Bebas Neue', cursive;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Code Pro', monospace; 
+*/
+
+body {
+    background-color: black;
+    color:white;
+}
+
+.squadrons {
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 10px;
+}
+
+.squadrons h1 {
+    font-family: 'Source Code Pro', monospace; 
+}
+
+.squadrons ul {
+    font-family: 'Source Code Pro', monospace; 
+    margin-top: 35px;
+    margin-right: 30px;
+    list-style: none;
+    float: left;
+}
+
+.squadrons li {
+    padding-right: 100px;
+    font-size: 25px;
+}
+
+.squadrons a:link {
+    text-decoration: none;
+    color:aqua;
+}
+
+.squadrons a:visited {
+    color:aqua;
+}
+
+.squadrons a:hover {
+    color:blue;
+}

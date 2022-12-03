@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans:wght@300&family=Roboto:wght@300&family=Source+Code+Pro&display=swap');
+
+/*
+font-family: 'Bebas Neue', cursive;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Code Pro', monospace; 
+*/
+
+.cadets h3 {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Source Code Pro', monospace; 
+}
+
+.cadets ul {
+    margin-top: 35px;
+    margin-right: 30px;
+    list-style: none;
+    text-align: center;
+}
+
+.cadets li {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 50px;
+}
+
+.cadets a:link {
+    text-decoration: none;
+    color:aqua;
+}
+
+.cadets a:visited {
+    color:aqua;
+}
+
+.cadets a:hover {
+    color:blue;
+}
